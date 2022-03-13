@@ -1,11 +1,31 @@
 body {
     font-family: sans-serif;
+    background-color: #E0A6BB;
 }
 
 .menu {
     display: flex;
     justify-content: space-around;
-    
+}
+
+a {
+    color:#923658;
+}
+
+main h1 {
+    text-align: center;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    text-align: center;
 }
 
 
