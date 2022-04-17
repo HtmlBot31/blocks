@@ -28,4 +28,13 @@ img {
     text-align: center;
 }
 
+a:hover {
+    color: white;
+    font-size: 20px;
+}
 
+a {
+    text-decoration: none;
+    color: blue;
+    
+}
